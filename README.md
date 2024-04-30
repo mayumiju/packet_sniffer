@@ -1,4 +1,4 @@
-# packet_sniffer
+# Packet Sniffer
 A followed tutorial to code a packet sniffer so it could help me understand how it works
 
 - Initial Concept
